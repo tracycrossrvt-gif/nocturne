@@ -1,4 +1,4 @@
-# Nocturne — Horror Movie Discovery
+# Nocturne - Horror Movie Discovery
 
 **[Live Demo](https://streaming-clone-seven.vercel.app/)** · **[Source Code](https://github.com/tracycrossrvt-gif/streaming-clone)**
 
@@ -66,7 +66,7 @@ Nocturne demonstrates API-driven frontend development, client-side routing, pers
 
 ## Developer
 
-**Tracy Cross** — Software Developer  
+**Tracy Cross** - Product Manager  
 [Portfolio](https://dev-portfolio-woad-seven.vercel.app/) · [GitHub](https://github.com/tracycrossrvt-gif) · [LinkedIn](https://www.linkedin.com/in/tracy-cross-dev/)
 
 ---
